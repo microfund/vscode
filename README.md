@@ -12,6 +12,7 @@
 
 VSCodeで Mermaid を扱う際に便利な拡張機能：
 
+- **Office Viewer**
 - **Markdown Preview Mermaid Support**  
 - **Mermaid Chart**  
 - **Mermaid Preview**
