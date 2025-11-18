@@ -16,6 +16,7 @@ VSCodeで Mermaid を扱う際に便利な拡張機能：
 - **Markdown Preview Mermaid Support**  
 - **Mermaid Chart**  
 - **Mermaid Preview**
+- **Live Preview**
 
 ---
 
